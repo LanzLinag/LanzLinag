@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Lanz Elijah Linag
-🌐 [My Portfolio](https://lanzlinag.vercel.app)
+🔗 **Portfolio** → [lanzlinag.vercel.app](https://lanzlinag.vercel.app)  
 
 
 🎓 Undergraduate Computer Engineering student at Holy Angel University (2022–2026)  
