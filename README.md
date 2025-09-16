@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Lanz Elijah Linag  
+# 👋 Hi, I'm Lanz Elijah Linag
+🌐 [My Portfolio](https://lanzlinag.vercel.app)
+
 
 🎓 Undergraduate Computer Engineering student at Holy Angel University (2022–2026)  
 📊 Aspiring **Data Analyst & Data Scientist** | 🤖 AI/ML Enthusiast | 💻 Backend Developer  
