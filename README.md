@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Lanz Elijah Linag
-🔗 **Portfolio** → [lanzlinag.vercel.app](https://lanzlinag.vercel.app)  
 
 
 🎓 Undergraduate Computer Engineering student at Holy Angel University (2022–2026)  
@@ -52,4 +51,6 @@ A library web application with PayPal subscription integration. Built using Djan
 ## 📫 Contact Me  
 
 - 📧 **Email:** lanzlinag@gmail.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/lanz-linag](https://www.linkedin.com/in/lanz-linag)  
+- 🔗 **LinkedIn:** [linkedin.com/in/lanz-linag](https://www.linkedin.com/in/lanz-linag)
+- 💼 **Portfolio** → [lanzlinag.vercel.app](https://lanzlinag.vercel.app)  
+  
