@@ -2,13 +2,13 @@
 
 
 🎓 Undergraduate Computer Engineering student at Holy Angel University (2022–2026)  
-📊 Aspiring **Data Analyst & Data Scientist** | 🤖 AI/ML Enthusiast | 💻 Backend Developer  
+📊 Aspiring **Data Analyst & Data Scientist** | 🤖 AI/ML Enthusiast | 💻 Software Developer  
 
 ---
 
 ## 🚀 About Me  
-I’m passionate about building data-driven solutions that combine backend development with modern AI/ML approaches.  
-My projects explore **computer vision, data analytics, and full-stack applications** aimed at solving real-world problems.  
+I’m passionate about creating data-driven solutions and developing software that integrates modern AI/ML approaches.
+My projects explore in computer vision and full-stack applications, while also engaging in hands-on exercises in data analytics and AI/ML to build a strong data-driven foundation.  
 
 ---
 
@@ -19,7 +19,9 @@ My projects explore **computer vision, data analytics, and full-stack applicatio
 - ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
 - ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
 - ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)  
-- HTML, CSS  
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)  
+
 
 **📊 Data & AI/ML:**  
 - ![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6F00?style=flat&logo=ai&logoColor=white)  
@@ -28,10 +30,11 @@ My projects explore **computer vision, data analytics, and full-stack applicatio
 - ![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=flat&logo=matplotlib&logoColor=white)  
 - ![Seaborn](https://img.shields.io/badge/Seaborn-3182BD?style=flat&logo=python&logoColor=white)  
 
-**🛠 Tools & Version Control:**  
+**🛠 Tools & Platform:**  
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-- Anaconda  
+- ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)  
+- ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)  
 
 ---
 
