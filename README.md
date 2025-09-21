@@ -2,7 +2,7 @@
 
 
 🎓 Undergraduate Computer Engineering student at Holy Angel University (2022–2026)  
-📊 Aspiring **Data Analyst & Data Scientist** | 🤖 AI/ML Enthusiast | 💻 Software Developer  
+📊 Aspiring **Data Analyst & Data Scientist** | 🤖 AI/ML Engineer | 💻 Software Developer  
 
 ---
 
